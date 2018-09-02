@@ -22,6 +22,7 @@ TTR:20% of total score.
 Simplicity and Clarity:15% of total score.
 I attached given percentage scores to their respective components with regards to how much the components affect the quality of the paper.
 More work could definitely be done to diversify the rubric to cater for more types of writings
+
 LIMITATIONS
 The program may have blindspots because:
 Our model pegs the richness of vocabulary to cognitive ability while richness of vocabulary is actually connected to style of writing. It is unreasonable to compare for instance, an avant garde to a realist because they use different languages to deliver their messages. Writers in different fields also use different kinds of language and jargon. While some of their works may have high TTRs, others may have a lower TTR not because there was decline in cognitive ability but because they chose to express particular ideas using particular language e.g simple words for a poem.
