@@ -14,7 +14,7 @@ def text_TTR(text):
     types = Counter(tokens) 
     TTR = len(types)/len(tokens)
     return TTR
-print("text TTR:",text_TTR("finalpaper.txt"))
+print("text TTR:",text_TTR("Davis.txt"))
 
 #normalize the function by breaking into chunks
 def book_segments(textfile):
@@ -42,5 +42,5 @@ def segments_TTRs(filename):
         
     avg = avg / len(segments)
     return avg
-print ("average TTR for segments:",segments_TTRs("finalpaper.txt"))
+print ("average TTR for segments:",segments_TTRs("Davis.txt"))
         

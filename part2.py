@@ -85,4 +85,4 @@ def gradescores(filename):
     else:
         print("Sorry, you received an F")
     
-gradescores("Gallant.txt")
+gradescores("Davis.txt")
